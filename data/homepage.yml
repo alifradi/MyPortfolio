@@ -6,17 +6,17 @@ showcase:
   enable: true
   title: "Hello, I’m Ali Fradi."
   subtitle: "Data Professional"
-  description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
+  description: "Accomplished Data professional with over 4 years of experience driving decision-making through statistical learning and optimization."
   image:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/stack.png"
+    _2x: "img/showcase/stack.png"
   imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/stack.png"
+    _2x: "img/showcase/stack.png"
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact Matt"
+    btnText: "Contact Ali"
     URL: "mailto:alifradi7@gmail.com"
 
   socialLinks:
@@ -54,8 +54,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/ali-frady/"
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/alipic.png"
+    _2x: "img/who-am-i/alipic.png"
 
 # experience
 experience:
@@ -72,17 +72,21 @@ experience:
     URL: "/cv/Ali_FRADI_resume"
 
   items:
-    - title: "Director of Product Engineering & Market Development"
-      company: "Bonney Forge"
-      duration: "Jan 2017 - Aug 2018"
+    - title: "Data Engineer"
+      company: "ISSITECH"
+      duration: "May 2024 -"
 
-    - title: "Manager of Sales Engineering"
-      company: "Bonney Forge"
-      duration: "Mar 2014 - Jan 2017"
+    - title: "Data Scientist"
+      company: "MECART - Polytechnique of Montreal"
+      duration: "Sep 2022 - Apr 2024"
 
-    - title: "Manager of Product Engineering"
-      company: "Bonney Forge"
-      duration: "Nov 2011 - Mar 2014"
+    - title: "Data Scientist"
+      company: "axefinance"
+      duration: "Oct 2018 - Aug 2022"
+      
+    - title: "Data Analyst"
+      company: "Bayer Crop Science - Monsanto"
+      duration: "Mar 2018 - Oct 2018"
 
 # education
 education:
@@ -92,14 +96,17 @@ education:
     - university: "Polytechnique of Montreal"
       year: "2022-2024"
       degree: "Master of Science (M.Sc.A)"
+      URL: "https://www.polymtl.ca/en"
 
     - university: "University of El Manar"
       year: "2015-2018"
       degree: "Bachelor of Industrial Engineering"
+      URL: "http://www.utm.rnu.tn/"
       
     - university: "University of El Manar (IPEIEM)"
       year: "2013-2015"
       degree: "Pre-engineering intensive courses"
+      URL: "https://ipeiem.rnu.tn/"
 
 
 
@@ -141,29 +148,46 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+    - title: "Supply costs dashboard for home improvement company"
+      description: "developed and deployed an interactive expenditure dashboard for <a href=https://www.rona.ca/fr?cq_src=google_ads&cq_cmp=179825668&cq_con=54211137508&cq_term=rona&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&&cm_mmc=paid_search-_-google-_-aw_kw_brand_category-_-71700000065560845&gad_source=1&gclid=Cj0KCQjwj4K5BhDYARIsAD1Ly2owcdLkcFZALhTw0iqnHsnf2ROtre5kOMfmVvGcV8Hum6PDGmOaMS0aAteBEALw_wcB&gclsrc=aw.ds>RONA</a> using Power BI. The dashboard integrates and visualizes financial data from multiple sources that where preprocessed and normalized, providing insights into total expenditures, category-wise breakdowns, supplier analysis, and fiscal trends."
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
+        x: "img/works/rona.png"
+        _2x: "img/works/rona.png"
       is_even: true
 
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Sales Report for IT sold products"
+      description: "developed a comprehensive sales dashboard for IT products at Alten using Power BI, where I integrated and normalized raw sales data from multiple sources through Power Query. I created dynamic measures with DAX for real-time insights and designed interactive visualizations to highlight key metrics like net sales quantities and category-wise breakdowns. This project involved advanced data processing techniques and aimed to empower stakeholders to make informed decisions based on detailed data insights."
+      image:
+        x: "img/works/alten.png"
+        _2x: "img/works/alten.png"
+      is_even: false
+      
+    - title: "Auomated ANOVA tool"
+      description: "Developed a shiny application that automates ANOVA statistical insights and conclusions for a lab processing Olive oil in Tunisia"
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        URL: "https://ali-frady.shinyapps.io/ANOVA-Shiny-application-master/"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
-      is_even: false
+        x: "img/works/anova.gif"
+        _2x: "img/works/anova.gif"
+      is_even: True
 
+    - title: "Sankey Graph RShiny app"
+      description: "Feel free to generate Sankey graph with my modest tool, as indicated to visualize your flow of data as you wish!"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://ali-frady.shinyapps.io/SankeyGraph/"
+      image:
+        x: "img/works/sankey.png"
+        _2x: "img/works/sankey.png"
+      is_even: false
+      
     
+      
+  
+
 
 # testimonial
 testimonial:
