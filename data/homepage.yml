@@ -1,0 +1,223 @@
+head:
+  title: "Ali Fradi's Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Ali Fradi."
+  subtitle: "Data Professional"
+  description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
+  image:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Matt"
+    URL: "mailto:alifradi7@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/ali-frady/"
+
+    - icon: "github"
+      URL: "https://github.com/alifradi"
+
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com/@industrialEnginnering"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/alifradi7/"
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
+    or building software, I enjoy vacationing with my family and friends. 
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is applying data science to business. 
+    I create value for companies by understanding the financial
+    cost of problems and delivering a return-on-investment with my solutions. 
+    I enjoy learning, working with stakeholders, and making better decisions with data.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/ali-frady/"
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/ali-frady/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "/cv/Ali_FRADI_resume"
+
+  items:
+    - title: "Director of Product Engineering & Market Development"
+      company: "Bonney Forge"
+      duration: "Jan 2017 - Aug 2018"
+
+    - title: "Manager of Sales Engineering"
+      company: "Bonney Forge"
+      duration: "Mar 2014 - Jan 2017"
+
+    - title: "Manager of Product Engineering"
+      company: "Bonney Forge"
+      duration: "Nov 2011 - Mar 2014"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Polytechnique of Montreal"
+      year: "2022-2024"
+      degree: "Master of Science (M.Sc.A)"
+
+    - university: "University of El Manar"
+      year: "2015-2018"
+      degree: "Bachelor of Industrial Engineering"
+      
+    - university: "University of El Manar (IPEIEM)"
+      year: "2013-2015"
+      degree: "Pre-engineering intensive courses"
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Sales Demand Forecast Application"
+      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+      image:
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
+      is_even: true
+
+    - title: "Product Price Recommendation"
+      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+      image:
+        x: "img/works/app_cannondale_price_prediction.jpg"
+        _2x: "img/works/app_cannondale_price_prediction.jpg"
+      is_even: false
+
+    
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+  
+    - name: "Agustin Fonseca"
+      position: "Head of EMEA, Production Research at Bayer Crop Science"
+      content: "Talented, technically solid and very driven Data Analytics Scientist.
+Ali joined my team in France to work on his graduation Internship. His inquisitive nature and strong ability to learn allowed him to quickly understand the basis principles of a new domain for him, agriculture, and effectively apply his data science knowledge to work on specific business problems. He demonstrated solid Project Management skill, delivering good-lasting value to the team and committing to timelines. His optimistic nature and always positive attitude made it enjoyable for the team to work with him. 
+Ali will be a great asset to any team looking for a solid Data Analytics' Scientist."
+      image:
+        x: "img/testimonials/agustin.jpeg"
+        _2x: "img/testimonials/agustin@2x.jpeg"
+        
+    - name: "Kamylla Leandro"
+      position: "Data Scientist at  Bayer Crop Science"
+      content: "Ali is an excellent professional, I was able to assist him during his internship at Monsanto legacy/ Bayer. He is very proactive and committed to self-development, is always looking to be collaborative in projects and has a very expressive Statistical/ Programming background. It was a pleasure working with you Ali!"
+      image:
+        x: "img/testimonials/kamylla.jpeg"
+        _2x: "img/testimonials/kamylla@2x.jpeg"
+
+   
+
+# contact
+contact:
+  enable: true
+  title: "Contact Ali"
+    
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:alifradi7@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "+14384933907"
+  email:
+    title: "Email"
+    email: '<a href="mailto:alifradi7@gmail.com">ali.fradi@polymtl.ca</a>'
+  address:
+    title: "Address"
+    address: "3500 Av. Ridgewood, Montreal, H3V1C2, QC, Canada"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
