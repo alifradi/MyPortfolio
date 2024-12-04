@@ -47,8 +47,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/ali-frady/"
   image:
-    x: "img/who-am-i/alipic.png"
-    _2x: "img/who-am-i/alipic.png"
+    x: "img/who-am-i/alitom.jpg"
+    _2x: "img/who-am-i/alitom.jpg"
 
 # experience
 experience:
