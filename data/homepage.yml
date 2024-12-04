@@ -40,14 +40,7 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
-    or building software, I enjoy vacationing with my family and friends. 
-    </p>
-    <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business. 
-    I create value for companies by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
-    I enjoy learning, working with stakeholders, and making better decisions with data.
+    Mid-level Data Engineer with 4+ years of experience in designing, building, and optimizing scalable data pipelines and infrastructures. Skilled in transforming raw datasets into actionable insights through advanced data modeling, ETL processes, and workflow automation. Proficient in leveraging modern data engineering tools and frameworks to ensure data reliability, accessibility, and performance. Strong expertise in integrating complex data systems and collaborating with cross-functional teams to drive data-driven decision-making. With a solid foundation in statistical learning and optimization, I excel at bridging analytics with engineering to deliver impactful solutions. Looking to contribute to innovative teams by implementing robust data systems that empower large-scale business intelligence and analytics initiatives. My all stack is listed above!
     </p>
   button:
     icon: "icon-smile-fill"
@@ -61,7 +54,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  description: "Over 4+ years of experience working with companies from all over the world. I design & develop data products to help businesses increase profitability and improve customer experience."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -69,23 +62,23 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "/cv/Ali_FRADI_resume"
+    URL: "https://www.dropbox.com/scl/fi/gjlc30mn7v64qeg78wvav/Ali_FRADI_resume.pdf?rlkey=fm6ii0eijcaayeewcp0s46ham&st=othzkrgv&dl=0"
 
   items:
     - title: "Data Engineer"
-      company: "ISSITECH"
+      company: "<a href='https://issitech.ca/'>ISSITECH</a>"
       duration: "May 2024 -"
 
     - title: "Data Scientist"
-      company: "MECART - Polytechnique of Montreal"
+      company: "<a href='https://mecart.com/'>MECART</a> - <a href='https://www.polymtl.ca/en'>Polytechnique of Montreal</a>"
       duration: "Sep 2022 - Apr 2024"
 
     - title: "Data Scientist"
-      company: "axefinance"
+      company: "<a href='https://www.axefinance.com/'>axefinance</a>"
       duration: "Oct 2018 - Aug 2022"
       
     - title: "Data Analyst"
-      company: "Bayer Crop Science - Monsanto"
+      company: "<a href='https://www.bayer.com/en/'>Bayer Crop Science - Monsanto</a>"
       duration: "Mar 2018 - Oct 2018"
 
 # education
@@ -93,20 +86,20 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "Polytechnique of Montreal"
+    - university: "<a href='https://www.polymtl.ca/en'>Polytechnique of Montreal</a>"
       year: "2022-2024"
       degree: "Master of Science (M.Sc.A)"
-      URL: "https://www.polymtl.ca/en"
+      URL: 
 
-    - university: "University of El Manar"
+    - university: "<a href='http://www.utm.rnu.tn/'>University of El Manar</a>"
       year: "2015-2018"
       degree: "Bachelor of Industrial Engineering"
-      URL: "http://www.utm.rnu.tn/"
+      URL: ""
       
-    - university: "University of El Manar (IPEIEM)"
+    - university: "<a href='https://ipeiem.rnu.tn/'>University of El Manar (IPEIEM)</a>"
       year: "2013-2015"
       degree: "Pre-engineering intensive courses"
-      URL: "https://ipeiem.rnu.tn/"
+      URL: ""
 
 
 
@@ -163,7 +156,7 @@ client_and_work:
       is_even: false
       
     - title: "Auomated ANOVA tool"
-      description: "Developed a shiny application that automates ANOVA statistical insights and conclusions for a lab processing Olive oil in Tunisia"
+      description: "Developed a shiny application that automates ANOVA statistical insights and conclusions for a lab processing Olive oil in Tunisia <a href ='https://www.dropbox.com/scl/fi/10vru00b845ywjm4giiab/data_OO.csv?rlkey=i5n84btpvdlldqzkkvy39cjew&st=b79ebic7&dl=0'>Get Sample of data here</a>"
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -174,7 +167,7 @@ client_and_work:
       is_even: True
 
     - title: "Sankey Graph RShiny app"
-      description: "Feel free to generate Sankey graph with my modest tool, as indicated to visualize your flow of data as you wish!"
+      description: "Feel free to generate Sankey graph with my modest tool, as indicated to visualize your flow of data as you wish! <a href ='https://www.dropbox.com/scl/fi/nslhe42syzr00grpa2aee/Energy.xlsx?rlkey=bffao6phvw3qbckn2cf4m8q89&st=iwi13ila&dl=0'>Get Sample of data here</a>"
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -183,9 +176,86 @@ client_and_work:
         x: "img/works/sankey.png"
         _2x: "img/works/sankey.png"
       is_even: false
-      
     
-      
+
+  
+# Client & Work
+publications:
+  title: "Publications"
+  enable: true
+  works:
+    - title: "Multi-project Scheduling Problem with Limited Preemption and Ordinary Feeding Precedence Relations"
+      description: "This is a conference article of my work on MILP for client-tailored cleanrooms production planning published in <a href='https://link.springer.com/chapter/10.1007/978-3-031-71645-4_36'>Springer</a>"
+      image:
+        x: "img/works/mec.jpg"
+        _2x: "img/works/mec.jpg"
+      is_even: true  
+    
+    - title: "A Reproducibility Study of Double Q-learning"
+      description: "This works aimed to study double Q-learning on discrete and continuous state-space actions with different environments. <a href='https://www.dropbox.com/scl/fi/r2ed0bjw0kfw4365m0erk/Final-report.pdf?rlkey=blf8b9f9z32acz8mqxegbe8qi&st=3yw2w7wv&dl=0'>Get the paper here !</a>"
+      image:
+        x: "img/works/3q.png"
+        _2x: "img/works/3q.png"
+      is_even: false    
+       
+    - title: "Dynamic Programming and One Step Look Ahead rule applied to solve decision problem of jobs research"
+      description: "You can run simulations on salaries distributions and evaluate at which rate you start to consider a job offer to be an obvious opportunity.<a href='https://ali-frady.shinyapps.io/Job_search_DP/'> Read here !</a>"
+      image:
+        x: "img/works/oslah.png"
+        _2x: "img/works/oslah.png"
+      is_even: true 
+    
+
+# readings
+lastread:
+  enable: true
+  title: "My last readings that I recommend for you"
+  items:
+  
+    - name: "Story telling with data"
+      position: "Cole Nussbaumer Knaflic"
+      content: ""
+      image:
+        x: "img/readings/std.jpg"
+        _2x: "img/readings/std.jpg"
+    
+    - name: "System design interview"
+      position: "Alex Xu"
+      content: ""
+      image:
+        x: "img/readings/sdi.jpg"
+        _2x: "img/readings/sdi.jpg"
+        
+    - name: "Machine Learning and Pattern recognitions "
+      position: "Cristopher Bishops"
+      content: ""
+      image:
+        x: "img/readings/PRML.jpg"
+        _2x: "img/readings/PRML.jpg"
+        
+    - name: "Reinforcement Learning"
+      position: "Sutton & Barto"
+      content: ""
+      image:
+        x: "img/readings/PRML.jpg"
+        _2x: "img/readings/PRML.jpg"
+        
+    - name: "Dynamic Programming and Optimal Control"
+      position: "Dimitri Bertsekas"
+      content: ""
+      image:
+        x: "img/readings/DP.jpg"
+        _2x: "img/readings/DP.jpg"
+        
+        
+    - name: "Introduction to Stochastic Programming"
+      position: "Birge & Louveaux"
+      content: ""
+      image:
+        x: "img/readings/SP.JPEG"
+        _2x: "img/readings/SP.JPEG"
+        
+    
   
 
 
@@ -211,7 +281,20 @@ Ali will be a great asset to any team looking for a solid Data Analytics' Scient
         x: "img/testimonials/kamylla.jpeg"
         _2x: "img/testimonials/kamylla@2x.jpeg"
 
-   
+
+implementations:
+  enable: true
+  title: "My last implementation"
+  items:
+  
+    - name: "Predictive distribution estimation"
+      position: "(Part 3.3.2) from PRML"
+      content: "<a href='https://www.youtube.com/watch?v=9CLFe4M6AZk&t=3s&ab_channel=Frady'>Watch now </a>"
+      image:
+        x: "img/works/Pr.png"
+        _2x: "img/works/Pr.png"
+
+
 
 # contact
 contact:

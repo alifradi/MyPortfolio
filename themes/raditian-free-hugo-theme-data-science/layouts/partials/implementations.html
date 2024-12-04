@@ -1,21 +1,21 @@
-{{ if .Site.Data.homepage.lastread.enable }}
+{{ if .Site.Data.homepage.implementations.enable }}
 <section class="section rad-animation-group section--border-bottom">
     <div class="container">
-        <h2 class="rad-fade-down">{{ .Site.Data.homepage.lastread.title }}</h2>
+        <h2 class="rad-fade-down">{{ .Site.Data.homepage.implementations.title }}</h2>
         <div class="row row--padded mb-0 rad-fade-down">
-            {{ range .Site.Data.homepage.lastread.items }}
-            <div class="col-12 col-md-4 mb-5 mb-md-0 lastread">
+            {{ range .Site.Data.homepage.implementations.items }}
+            <div class="col-12 col-md-4 mb-5 mb-md-0 implementations">
                 <i class="icon-quote"></i>
                 <p>
                     {{ .content | safeHTML }}
                 </p>
-                <div class="lastread__author">
-                    <img class="lozad lastread__author-image"
+                <div class="implementations__author">
+                    <img class="lozad implementations__author-image"
                          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
                          data-src="{{ .image.x | absURL }}"
                          data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
                          alt="{{ .name }}"/>
-                    <div class="lastread__author-info">
+                    <div class="implementations__author-info">
                         <h4>{{ .name }}</h4>
                         <span>{{ .position }}</span>
                     </div>

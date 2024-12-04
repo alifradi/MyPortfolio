@@ -1,14 +1,14 @@
-{{ if .Site.Data.homepage.client_and_work.enable }}
+{{ if .Site.Data.homepage.publications.enable }}
 <section id="portfolio" class="section section--border-bottom">
   <div class="container">
     <h2 class=" rad-animation-group rad-fade-down">
-      {{ .Site.Data.homepage.client_and_work.title | safeHTML }}
+      {{ .Site.Data.homepage.publications.title | safeHTML }}
     </h2>
-    {{ if .Site.Data.homepage.client_and_work.enable_clients }}
+    {{ if .Site.Data.homepage.publications.enable_clients }}
     <div class="row row--padded rad-animation-group rad-fade-down">
       <div class="col-12">
         <div class="clients">
-          {{ range .Site.Data.homepage.client_and_work.clients }}
+          {{ range .Site.Data.homepage.publications.clients }}
           <div class="clients__item">
             <a href="https://www.business-science.io/">
               <img
@@ -25,7 +25,7 @@
       </div>
     </div>
     {{ end }}
-    {{ range $index, $element := .Site.Data.homepage.client_and_work.works }}
+    {{ range $index, $element := .Site.Data.homepage.publications.works }}
     <div
       class="row row--padded rad-animation-group rad-fade-down {{ if .is_even }}flex-column-reverse flex-md-row{{ end }}"
     >
