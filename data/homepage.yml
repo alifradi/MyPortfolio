@@ -237,8 +237,8 @@ lastread:
       position: "Sutton & Barto"
       content: ""
       image:
-        x: "img/readings/PRML.jpg"
-        _2x: "img/readings/PRML.jpg"
+        x: "img/readings/RL.jpg"
+        _2x: "img/readings/RL.jpg"
         
     - name: "Dynamic Programming and Optimal Control"
       position: "Dimitri Bertsekas"
