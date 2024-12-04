@@ -214,35 +214,35 @@ lastread:
   
     - name: "Story telling with data"
       position: "Cole Nussbaumer Knaflic"
-      content: ""
+      content: "The content of this book is widely shared in youtube tutorials by the author, however I enjoyed the paper version alongside the video they were able to make direct massive impact on my consideration while building a dashboard."
       image:
         x: "img/readings/std.jpg"
         _2x: "img/readings/std.jpg"
     
     - name: "System design interview"
       position: "Alex Xu"
-      content: ""
+      content: "I'm still reading it ..."
       image:
         x: "img/readings/sdi.jpg"
         _2x: "img/readings/sdi.jpg"
         
     - name: "Machine Learning and Pattern recognitions "
       position: "Cristopher Bishops"
-      content: ""
+      content: "I still have chapters to go for deep understanding however I managed to  implement live all contents of chapter 3 on my youtube channel for arabic speakers. This book is your ML bible !"
       image:
         x: "img/readings/PRML.jpg"
         _2x: "img/readings/PRML.jpg"
         
     - name: "Reinforcement Learning"
       position: "Sutton & Barto"
-      content: ""
+      content: "I didn't enjoy much this book as I did for the same content of Dimitri's book...though I may consider it a good beginning to put hands on RL."
       image:
         x: "img/readings/RL.jpg"
         _2x: "img/readings/RL.jpg"
         
     - name: "Dynamic Programming and Optimal Control"
       position: "Dimitri Bertsekas"
-      content: ""
+      content: "Much effort to put in here ! not easy at all"
       image:
         x: "img/readings/DP.jpg"
         _2x: "img/readings/DP.jpg"
@@ -250,7 +250,7 @@ lastread:
         
     - name: "Introduction to Stochastic Programming"
       position: "Birge & Louveaux"
-      content: ""
+      content: "at first, it's super hard but you get used to it. On my channel there are problems I solved while explaining essentails of this gem and Dimitri's DP as well !"
       image:
         x: "img/readings/SP.JPEG"
         _2x: "img/readings/SP.JPEG"
