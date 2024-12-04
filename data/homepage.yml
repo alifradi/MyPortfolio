@@ -302,8 +302,8 @@ contact:
   title: "Contact Ali"
     
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/aliq.jpg"
+    _2x: "img/who-am-i/aliq.jpg"
     
   button:
     icon: "icon-mail-fill"
