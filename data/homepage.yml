@@ -155,7 +155,7 @@ client_and_work:
         _2x: "img/works/alten.png"
       is_even: false
       
-    - title: "Auomated ANOVA tool"
+    - title: "Automated ANOVA tool"
       description: "Developed a shiny application that automates ANOVA statistical insights and conclusions for a lab processing Olive oil in Tunisia <a href ='https://www.dropbox.com/scl/fi/10vru00b845ywjm4giiab/data_OO.csv?rlkey=i5n84btpvdlldqzkkvy39cjew&st=b79ebic7&dl=0'>Get Sample of data here</a>"
       button:
         icon: "icon-arrow-right"
