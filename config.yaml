@@ -28,6 +28,7 @@ params:
     - publications
     - experience
     - education
+    - certifications
     - lastread
     - testimonial
     - implementations
