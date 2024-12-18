@@ -107,7 +107,7 @@ certifications:
   enable: true
   title: "Certified for"
   items:
-    - university: "<a href='https://www.polymtl.ca/en'>Microsoft Power BI Data Analyst </a>"
+    - university: "<a href='https://www.polymtl.ca/en'>Microsoft Power BI Data Analyst (PL-300) </a>"
       year: "2024-"
       image:
         x: "img/certifications/pl300.png"
