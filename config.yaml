@@ -29,6 +29,7 @@ params:
     - experience
     - education
     - lastread
+    - certifications
     - testimonial
     - implementations
     - contact
