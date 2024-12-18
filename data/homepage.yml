@@ -264,7 +264,7 @@ lastread:
   
     - name: "Power BI Data Analyst certification"
       position: "Microsoft PL-300"
-      content: "<a href='https://www.youtube.com/watch?v=9CLFe4M6AZk&t=3s&ab_channel=Frady'>view</a>"
+      #content: "<a href='https://www.youtube.com/watch?v=9CLFe4M6AZk&t=3s&ab_channel=Frady'>view</a>"
       image:
         x: "img/certifications/pl300.PNG"
         _2x: "img/certifications/pl300.PNG"    
