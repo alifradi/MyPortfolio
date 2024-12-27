@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Ali Fradi."
-  subtitle: "Data Professional"
+  subtitle: "Data and ML engineer"
   description: "Accomplished Data professional with over 4 years of experience driving decision-making through statistical learning and optimization."
   image:
     x: "img/showcase/stack.png"
