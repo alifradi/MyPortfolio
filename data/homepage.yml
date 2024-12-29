@@ -184,7 +184,7 @@ client_and_work:
       image:
         x: "img/works/anova.gif"
         _2x: "img/works/anova.gif"
-      is_even: true
+      is_even: false
 
     - title: "Sankey Graph RShiny app"
       description: "Feel free to generate Sankey graph with my modest tool, as indicated to visualize your flow of data as you wish! <a href ='https://www.dropbox.com/scl/fi/nslhe42syzr00grpa2aee/Energy.xlsx?rlkey=bffao6phvw3qbckn2cf4m8q89&st=iwi13ila&dl=0'>Get Sample of data here</a>"
@@ -195,7 +195,7 @@ client_and_work:
       image:
         x: "img/works/sankey.png"
         _2x: "img/works/sankey.png"
-      is_even: true
+      is_even: false
       
     - title: "Multi-agent performance scaling simulation for an UCI"
       description: "Developed a multi-agent-based simulation to mimic ICU performance across various scenarios, based on assumptions and parameters, to support decisions on workforce rescaling and agile performance."
