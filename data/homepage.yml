@@ -159,7 +159,7 @@ client_and_work:
       image:
         x: "img/works/SCD.PNG"
         _2x: "img/works/SCD.PNG"
-      is_even: true
+      is_even: false
       
     - title: "Supply costs dashboard for home improvement company"
       description: "developed and deployed an interactive expenditure dashboard for <a href=https://www.rona.ca/fr?cq_src=google_ads&cq_cmp=179825668&cq_con=54211137508&cq_term=rona&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&&cm_mmc=paid_search-_-google-_-aw_kw_brand_category-_-71700000065560845&gad_source=1&gclid=Cj0KCQjwj4K5BhDYARIsAD1Ly2owcdLkcFZALhTw0iqnHsnf2ROtre5kOMfmVvGcV8Hum6PDGmOaMS0aAteBEALw_wcB&gclsrc=aw.ds>RONA</a> using Power BI. The dashboard integrates and visualizes financial data from multiple sources that where preprocessed and normalized, providing insights into total expenditures, category-wise breakdowns, supplier analysis, and fiscal trends."
