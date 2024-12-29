@@ -166,7 +166,7 @@ client_and_work:
       image:
         x: "img/works/rona.png"
         _2x: "img/works/rona.png"
-      is_even: true
+      is_even: false
 
     - title: "Sales Report for IT sold products"
       description: "Developed a comprehensive sales dashboard for IT products at Alten using Power BI, where I integrated and normalized raw sales data from multiple sources through Power Query. I created dynamic measures with DAX for real-time insights and designed interactive visualizations to highlight key metrics like net sales quantities and category-wise breakdowns. This project involved advanced data processing techniques and aimed to empower stakeholders to make informed decisions based on detailed data insights."
@@ -202,7 +202,7 @@ client_and_work:
       image:
         x: "img/works/sankey.png"
         _2x: "img/works/sankey.png"
-      is_even: true
+      is_even: false
     
 
   
