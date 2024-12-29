@@ -171,8 +171,8 @@ client_and_work:
     - title: "Sales Report for IT sold products"
       description: "Developed a multi-agent-based simulation to mimic ICU performance across various scenarios, based on assumptions and parameters, to support decisions on workforce rescaling and agile performance."
       image:
-        x: "img/works/dash.png"
-        _2x: "img/works/dash.png"
+        x: "img/works/alten.png"
+        _2x: "img/works/alten.png"
       is_even: false
 
     - title: "Multi-agent performance scaling simulation for an UCI"
