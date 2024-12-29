@@ -174,13 +174,6 @@ client_and_work:
         x: "img/works/alten.png"
         _2x: "img/works/alten.png"
       is_even: false
-
-    - title: "Multi-agent performance scaling simulation for an UCI"
-      description: "Developed a multi-agent-based simulation to mimic ICU performance across various scenarios, based on assumptions and parameters, to support decisions on workforce rescaling and agile performance."
-      image:
-        x: "img/works/dash_.png"
-        _2x: "img/works/dash_.png"
-      is_even: true
       
     - title: "Automated ANOVA tool"
       description: "Developed a shiny application that automates ANOVA statistical insights and conclusions for a lab processing Olive oil in Tunisia <a href ='https://www.dropbox.com/scl/fi/10vru00b845ywjm4giiab/data_OO.csv?rlkey=i5n84btpvdlldqzkkvy39cjew&st=b79ebic7&dl=0'>Get Sample of data here</a>"
@@ -202,6 +195,13 @@ client_and_work:
       image:
         x: "img/works/sankey.png"
         _2x: "img/works/sankey.png"
+      is_even: true
+      
+    - title: "Multi-agent performance scaling simulation for an UCI"
+      description: "Developed a multi-agent-based simulation to mimic ICU performance across various scenarios, based on assumptions and parameters, to support decisions on workforce rescaling and agile performance."
+      image:
+        x: "img/works/dash_.png"
+        _2x: "img/works/dash_.png"
       is_even: true
     
 
