@@ -153,6 +153,13 @@ client_and_work:
       alt: "Ztos"
 
   works:
+
+    - title: "Data logging tracking pipeplines"
+      description: "Developed a pipeline for data loggings into website from different browsers and device. The pipeline consisted of transforming data for later quick-advanced analysis and compacting the loggings activities to 12x per month <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/Dimensional%20Data%20Modeling.sql>Link to SQL Script</a>"
+      image:
+        x: "img/works/01__Dimensional Data Modeling.PNG"
+        _2x: "img/works/01__Dimensional Data Modeling.PNG"
+      is_even: false
   
     - title: "Movies Data Manipulation and Analysis Project"
       description: "Developed and deployed a data pipeline for movie and actor analysis using PostgreSQL. Implemented a Slow Changing Dimensions (SCD) type 2 table, optimized incremental and full backfilling techniques—reducing data processing time by nearly 30x for 1970 to 2020— and compacted multiple rows into single entries using Common Table Expressions (CTEs). This enabled detailed historical analysis and real-time data updates, providing valuable insights into actors' performance trends and production year statistics. <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/Dimensional%20Data%20Modeling.sql>Link to SQL Script</a>"
