@@ -317,7 +317,7 @@ testimonial:
       content: "Working with Ali at Axe finance was such a blessing. His tremendous spirit to learn and move forward with the projects was very inspiring. He is a valuable member for the team and I highly recommend him."
       image:
         x: "img/testimonials/cherine.jpg"
-        _2x: "img/testimonials/cherine.jpg"
+        _2x: "img/testimonials/cherine@2x.jpg"
 
 
 implementations:
