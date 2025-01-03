@@ -300,9 +300,7 @@ testimonial:
   
     - name: "Agustin Fonseca"
       position: "Head of EMEA, Production Research at Bayer Crop Science"
-      content: "Talented, technically solid and very driven Data Analytics Scientist.
-Ali joined my team in France to work on his graduation Internship. His inquisitive nature and strong ability to learn allowed him to quickly understand the basis principles of a new domain for him, agriculture, and effectively apply his data science knowledge to work on specific business problems. He demonstrated solid Project Management skill, delivering good-lasting value to the team and committing to timelines. His optimistic nature and always positive attitude made it enjoyable for the team to work with him. 
-Ali will be a great asset to any team looking for a solid Data Analytics' Scientist."
+      content: "Talented, technically solid and very driven Data Analytics Scientist. Ali joined my team in France to work on his graduation Internship. His inquisitive nature and strong ability to learn allowed him to quickly understand the basis principles of a new domain for him, agriculture, and effectively apply his data science knowledge to work on specific business problems. He demonstrated solid Project Management skill, delivering good-lasting value to the team and committing to timelines. His optimistic nature and always positive attitude made it enjoyable for the team to work with him.  Ali will be a great asset to any team looking for a solid Data Analytics' Scientist."
       image:
         x: "img/testimonials/agustin.jpeg"
         _2x: "img/testimonials/agustin@2x.jpeg"
@@ -313,6 +311,13 @@ Ali will be a great asset to any team looking for a solid Data Analytics' Scient
       image:
         x: "img/testimonials/kamylla.jpeg"
         _2x: "img/testimonials/kamylla@2x.jpeg"
+
+     - name: "Cherine Lachhab"
+      position: "Data Project Manager Consultant at  L'Oréal"
+      content: "Working with Ali at Axe finance was such a blessing. His tremendous spirit to learn and move forward with the projects was very inspiring. He is a valuable member for the team and I highly recommend him."
+      image:
+        x: "img/testimonials/cherine.jpg"
+        _2x: "img/testimonials/cherine.jpg"
 
 
 implementations:
