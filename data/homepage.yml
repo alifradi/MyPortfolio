@@ -157,8 +157,8 @@ client_and_work:
     - title: "Data logging tracking pipeplines"
       description: "Developed a pipeline for data loggings into website from different browsers and device. The pipeline consisted of transforming data for later quick-advanced analysis and compacting the loggings activities to 12x per month <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/memo%20for%202nd%20assigment.sql>Link to SQL Script</a>"
       image:
-        x: "img/works/cap2.PNG"
-        _2x: "img/works/cap2.PNG"
+        x: "img/works/q2.PNG"
+        _2x: "img/works/q2.PNG"
       is_even: false
   
     - title: "Movies Data Manipulation and Analysis Project"
