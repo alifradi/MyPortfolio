@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I’m Ali Fradi."
   subtitle: "Data engineer"
-  description: "Accomplished Data engineer with over 4 years of experience and applied mathematics Master degree, driving decision-making through statistical learning, optimization and good practices."
+  description: "Accomplished Data engineer with over <b>4 years of experience and applied mathematics Master degree</b>, driving decision-making through statistical learning, optimization and good practices."
   image:
     x: "img/showcase/implr.gif"
     _2x: "img/showcase/implr.gif"
