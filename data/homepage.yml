@@ -8,11 +8,11 @@ showcase:
   subtitle: "Data and ML engineer"
   description: "Accomplished Data and ML engineer with over 4 years of experience driving decision-making through statistical learning and optimization."
   image:
-    x: "img/showcase/stack.png"
-    _2x: "img/showcase/stack.png"
+    x: "img/showcase/impl.gif"
+    _2x: "img/showcase/impl.gif"
   imageMobile:
-    x: "img/showcase/stack.png"
-    _2x: "img/showcase/stack.png"
+    x: "img/showcase/impl.gif"
+    _2x: "img/showcase/impl.gif"
 
   button:
     icon: "icon-mail-fill"
