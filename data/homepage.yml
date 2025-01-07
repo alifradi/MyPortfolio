@@ -40,7 +40,7 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    Mid-level Data Engineer with 4+ years of experience in designing, building, and optimizing scalable data pipelines and infrastructures. Skilled in transforming raw datasets into actionable insights through advanced data modeling, ETL processes, and workflow automation. Proficient in leveraging modern data engineering tools and frameworks to ensure data reliability, accessibility, and performance. Strong expertise in integrating complex data systems and collaborating with cross-functional teams to drive data-driven decision-making. With a solid foundation in statistical learning and optimization, I excel at bridging analytics with engineering to deliver impactful solutions. Looking to contribute to innovative teams by implementing robust data systems that empower large-scale business intelligence and analytics initiatives.
+    Mid-level Data Engineer with <b>4+ years</b> of experience in designing, building, and optimizing scalable data pipelines and infrastructures. Skilled in transforming raw datasets into actionable insights through advanced data modeling, ETL processes, and workflow automation. Proficient in leveraging modern data engineering tools and frameworks to ensure data reliability, accessibility, and performance. Strong expertise in integrating complex data systems and collaborating with cross-functional teams to drive data-driven decision-making. With a solid foundation in statistical learning and optimization, I excel at bridging analytics with engineering to deliver impactful solutions. Looking to contribute to innovative teams by implementing robust data systems that empower large-scale business intelligence and analytics initiatives.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -155,14 +155,14 @@ client_and_work:
   works:
 
     - title: "Data logging tracking pipeplines"
-      description: "Developed a pipeline for data loggings into website from different browsers and device. The pipeline consisted of transforming data for later quick-advanced analysis and compacting the loggings activities to <b>12x per month<b> <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/fact%20data%20modeling.sql>Link to SQL Script</a>"
+      description: "Developed a pipeline for data loggings into website from different browsers and device. The pipeline consisted of transforming data for later quick-advanced analysis and compacting the loggings activities to <b>12x per month</b> <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/fact%20data%20modeling.sql>Link to SQL Script</a>"
       image:
         x: "img/works/q2.PNG"
         _2x: "img/works/q2.PNG"
       is_even: false
   
     - title: "Movies Data Manipulation and Analysis Project"
-      description: "Developed and deployed a data pipeline for movie and actor analysis using PostgreSQL. Implemented a Slow Changing Dimensions (SCD) type 2 table, optimized incremental and full backfilling techniques—reducing data processing time by nearly <b>30x for 1970 to 2020—<b> and compacted multiple rows into single entries using Common Table Expressions (CTEs). This enabled detailed historical analysis and real-time data updates, providing valuable insights into actors' performance trends and production year statistics. <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/Dimensional%20Data%20Modeling.sql>Link to SQL Script</a>"
+      description: "Developed and deployed a data pipeline for movie and actor analysis using PostgreSQL. Implemented a Slow Changing Dimensions (SCD) type 2 table, optimized incremental and full backfilling techniques—reducing data processing time by nearly <b>30x for 1970 to 2020—</b> and compacted multiple rows into single entries using Common Table Expressions (CTEs). This enabled detailed historical analysis and real-time data updates, providing valuable insights into actors' performance trends and production year statistics. <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/Dimensional%20Data%20Modeling.sql>Link to SQL Script</a>"
       image:
         x: "img/works/01__Dimensional Data Modeling.PNG"
         _2x: "img/works/01__Dimensional Data Modeling.PNG"
