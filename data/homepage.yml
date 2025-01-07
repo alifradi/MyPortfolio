@@ -155,21 +155,21 @@ client_and_work:
   works:
 
     - title: "Data logging tracking pipeplines"
-      description: "Developed a pipeline for data loggings into website from different browsers and device. The pipeline consisted of transforming data for later quick-advanced analysis and compacting the loggings activities to 12x per month <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/fact%20data%20modeling.sql>Link to SQL Script</a>"
+      description: "Developed a pipeline for data loggings into website from different browsers and device. The pipeline consisted of transforming data for later quick-advanced analysis and compacting the loggings activities to <b>12x per month<b> <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/fact%20data%20modeling.sql>Link to SQL Script</a>"
       image:
         x: "img/works/q2.PNG"
         _2x: "img/works/q2.PNG"
       is_even: false
   
     - title: "Movies Data Manipulation and Analysis Project"
-      description: "Developed and deployed a data pipeline for movie and actor analysis using PostgreSQL. Implemented a Slow Changing Dimensions (SCD) type 2 table, optimized incremental and full backfilling techniques—reducing data processing time by nearly 30x for 1970 to 2020— and compacted multiple rows into single entries using Common Table Expressions (CTEs). This enabled detailed historical analysis and real-time data updates, providing valuable insights into actors' performance trends and production year statistics. <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/Dimensional%20Data%20Modeling.sql>Link to SQL Script</a>"
+      description: "Developed and deployed a data pipeline for movie and actor analysis using PostgreSQL. Implemented a Slow Changing Dimensions (SCD) type 2 table, optimized incremental and full backfilling techniques—reducing data processing time by nearly <b>30x for 1970 to 2020—<b> and compacted multiple rows into single entries using Common Table Expressions (CTEs). This enabled detailed historical analysis and real-time data updates, providing valuable insights into actors' performance trends and production year statistics. <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/Dimensional%20Data%20Modeling.sql>Link to SQL Script</a>"
       image:
         x: "img/works/01__Dimensional Data Modeling.PNG"
         _2x: "img/works/01__Dimensional Data Modeling.PNG"
       is_even: false
       
     - title: "Automated ETL pipeline for Toronto open data extraction"
-      description: "Developed ETL functions to collect Toronto data from open APIs. Functions are tested automatically after each update for quality code and resultant data. different parts of the pipelined are dockerized and designed to communicate within a network to update attached volumes. ETL pipeline jobs are scheduled using Airflow DAGs and Github actions."
+      description: "Developed ETL functions to collect Toronto data from open APIs. Functions are tested automatically after each update for quality code and resultant data. different parts of the pipelined are dockerized and designed to communicate within a network to update attached volumes. ETL pipeline jobs are scheduled using Airflow DAGs and Github actions. <a href =https://github.com/alifradi/ETL-pipline-automated> Discover more in my github repository!</a>"
       image:
         x: "img/works/etl.PNG"
         _2x: "img/works/etl.PNG"
