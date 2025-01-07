@@ -8,11 +8,11 @@ showcase:
   subtitle: "Data engineer"
   description: "Accomplished Data engineer with over 4 years of experience and applied mathematics Master degree, driving decision-making through statistical learning, optimization and good practices."
   image:
-    x: "img/showcase/impl.gif"
-    _2x: "img/showcase/impl.gif"
+    x: "img/showcase/implr.gif"
+    _2x: "img/showcase/implr.gif"
   imageMobile:
-    x: "img/showcase/impl.gif"
-    _2x: "img/showcase/impl.gif"
+    x: "img/showcase/implr.gif"
+    _2x: "img/showcase/implr.gif"
 
   button:
     icon: "icon-mail-fill"
