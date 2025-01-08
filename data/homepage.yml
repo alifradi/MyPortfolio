@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I’m Ali Fradi."
   subtitle: "Data engineer"
-  description: "I help companies to optimize their strategies, build automated ETL pipelines ready for later use and sloving data related problems with mathematical modeling and visualizations"
+  description: "I help companies to optimize their strategies, build automated ETL pipelines ready for later use and solve data related problems with mathematical modeling and visualizations. I mainly worked on problems that are related to Operational Research, Natural Language Processing, Process automation, optimizing ETL pipelines and defining metrics."
   image:
     x: "img/showcase/Pi7-GIF-Cropper.gif"
     _2x: "img/showcase/Pi7-GIF-Cropper.gif"
