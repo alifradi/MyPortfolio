@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I’m Ali Fradi."
   subtitle: "Data engineer"
-  description: "Accomplished Data engineer with over <b>4 years of experience and applied mathematics Master degree</b>, driving decision-making through statistical learning, optimization and good practices."
+  description: "I help companies to optimize their strategies, build automated ETL pipelines ready for later use and sloving data related problems with mathematical modeling and visualizations"
   image:
     x: "img/showcase/Pi7-GIF-Cropper.gif"
     _2x: "img/showcase/Pi7-GIF-Cropper.gif"
@@ -40,7 +40,7 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    Mid-level Data Engineer with <b>4+ years</b> of experience in designing, building, and optimizing scalable data pipelines and infrastructures. Skilled in transforming raw datasets into actionable insights through advanced data modeling, ETL processes, and workflow automation. Proficient in leveraging modern data engineering tools and frameworks to ensure data reliability, accessibility, and performance. Strong expertise in integrating complex data systems and collaborating with cross-functional teams to drive data-driven decision-making. With a solid foundation in statistical learning and optimization, I excel at bridging analytics with engineering to deliver impactful solutions. Looking to contribute to innovative teams by implementing robust data systems that empower large-scale business intelligence and analytics initiatives.
+    Master’s graduate in Applied Mathematics with <b>4+ years of experience</b> in statistical learning, optimization, and data-driven decision-making. Proficient in R, SQL, Python, and Power BI for data transformation and visualization. Experienced in end-to-end machine learning modeling in financial contexts and developing production-ready optimization models tailored to customer requirements.
     </p>
   button:
     icon: "icon-smile-fill"
