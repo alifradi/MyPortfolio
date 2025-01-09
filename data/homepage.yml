@@ -212,7 +212,7 @@ client_and_work:
         _2x: "img/works/sankey.png"
       is_even: false
       
-    - title: "Multi-agent performance scaling simulation for an UCI"
+    - title: "Multi-agent performance scaling simulation for an ICU"
       description: "Developed a multi-agent-based simulation to mimic ICU performance across various scenarios, based on assumptions and parameters, to support decisions on workforce rescaling and agile performance."
       image:
         x: "img/works/dash_.png"
