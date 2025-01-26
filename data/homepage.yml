@@ -71,15 +71,15 @@ experience:
 
     - title: "Data Scientist"
       company: "<a href='https://mecart.com/'>MECART</a> - <a href='https://www.polymtl.ca/en'>Polytechnique of Montreal</a>"
-      duration: "Sep 2021 - Apr 2024"
+      duration: "Sep 2022 - Apr 2024"
 
     - title: "Data Scientist"
       company: "<a href='https://www.axefinance.com/'>axefinance</a>"
-      duration: "Oct 2019 - Aug 2021"
+      duration: "Oct 2018 - Aug 2022"
       
     - title: "Data Analyst"
       company: "<a href='https://www.bayer.com/en/'>Bayer Crop Science - Monsanto</a>"
-      duration: "Mar 2019 - Oct 2019"
+      duration: "Mar 2018 - Oct 2018"
 
 # education
 education:
@@ -87,17 +87,17 @@ education:
   title: "Education"
   items:
     - university: "<a href='https://www.polymtl.ca/en'>Polytechnique of Montreal</a>"
-      year: "2021-2024"
+      year: "2022-2024"
       degree: "Master of Applied Science (M.Sc.A)"
       URL: 
 
     - university: "<a href='https://enit.rnu.tn/en/home-en/'>University of El Manar ENIT</a>"
-      year: "2016-2019"
+      year: "2015-2018"
       degree: "Bachelor of Industrial Engineering"
       URL: ""
       
     - university: "<a href='https://ipeiem.rnu.tn/'>University of El Manar (IPEIEM)</a>"
-      year: "2013-2016"
+      year: "2013-2015"
       degree: "Pre-engineering intensive courses"
       URL: ""
 
@@ -107,11 +107,11 @@ certifications:
   enable: false
   title: "Certified for"
   items:
-    - university: "<a href='https://www.polymtl.ca/en'>Microsoft Power BI Data Analyst (PL-300) </a>"
+    - university: "<a href='https://credentials.databricks.com/e418d462-4b7d-4dff-ad93-d310d493d62a#acc.P7grSU1s'>Databricks Fundamentals</a>"
       year: "2024-"
       image:
-        x: "img/certifications/pl300.png"
-        _2x: "img/certifications/pl300.png"
+        x: "img/certifications/dbf.png"
+        _2x: "img/certifications/dbf.png"
 
 
 
