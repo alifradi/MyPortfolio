@@ -91,7 +91,7 @@ education:
       degree: "Master of Applied Science (M.Sc.A)"
       URL: 
       
-   -  university: "<a href='https://u-paris.fr/'>University of Paris</a>"
+    - university: "<a href='https://u-paris.fr/'>University of Paris</a>"
       year: "2020-2021"
       degree: "Master of ML and applied statistics"
       URL: "https://www.ticv.tn/"
