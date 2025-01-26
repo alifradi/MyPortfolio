@@ -91,6 +91,11 @@ education:
       degree: "Master of Applied Science (M.Sc.A)"
       URL: 
 
+   - university: "<a href='https://u-paris.fr/'>University of Paris</a>"
+      year: "2020-2021"
+      degree: "Master of ML and applied statistics"
+      URL: "https://www.ticv.tn/"
+
     - university: "<a href='https://enit.rnu.tn/en/home-en/'>University of El Manar ENIT</a>"
       year: "2015-2018"
       degree: "Bachelor of Industrial Engineering"
@@ -104,7 +109,7 @@ education:
 
 # education
 certifications:
-  enable: false
+  enable: true
   title: "Certified for"
   items:
     - university: "<a href='https://credentials.databricks.com/e418d462-4b7d-4dff-ad93-d310d493d62a#acc.P7grSU1s'>Databricks Fundamentals</a>"
