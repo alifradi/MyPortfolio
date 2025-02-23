@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Ali Fradi."
-  subtitle: "Data engineer"
+  subtitle: "AI and data engineer"
   description: "I help companies to optimize their strategies, build automated ETL pipelines ready for later use and solve data related problems with mathematical modeling and visualizations. I mainly worked on problems that are related to Operational Research, Natural Language Processing, Process automation, optimizing ETL pipelines and defining metrics."
   image:
     x: "img/showcase/Pi7-GIF-Cropper.gif"
@@ -158,6 +158,13 @@ client_and_work:
       alt: "Ztos"
 
   works:
+  
+    - title: "Optimizing Big Data analytics Jobs on AWS"
+      description: "Developed a PySpark job optimized regarding joins, UDFs, broadcasting and bucketing to reshape data into metrics to analyze and deployed it using EMR AWS service</b> <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/assignment3.py>Link to PySpark example of created jobs</a>"
+      image:
+        x: "img/works/Spk.PNG"
+        _2x: "img/works/Spk.PNG"
+      is_even: false
 
     - title: "Data logging tracking pipeplines"
       description: "Developed a pipeline for data loggings into website from different browsers and device. The pipeline consisted of transforming data for later quick-advanced analysis and compacting the loggings activities to <b>12x per month</b> <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/fact%20data%20modeling.sql>Link to SQL Script</a>"
