@@ -361,8 +361,8 @@ contact:
   title: "Contact Ali"
     
   image:
-    x: "img/who-am-i/alitom.jpg"
-    _2x: "img/who-am-i/alitom.jpg"
+    x: "img/who-am-i/alitsv.jpg"
+    _2x: "img/who-am-i/alitsv.jpg"
     
   button:
     icon: "icon-mail-fill"
