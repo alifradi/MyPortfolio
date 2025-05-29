@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I’m Ali Fradi."
   subtitle: "AI and data engineer"
-  description: "I help companies to optimize their strategies, build automated ETL pipelines ready for later use and solve data related problems with mathematical modeling and visualizations. I mainly worked on problems that are related to Operational Research, Natural Language Processing, Process automation, optimizing ETL pipelines and defining metrics."
+  description: "Bridging Data Science and Engineering: Innovative Solutions from Concept to Impact. Founder of Urban Pulse."
   image:
     x: "img/showcase/Pi7-GIF-Cropper.gif"
     _2x: "img/showcase/Pi7-GIF-Cropper.gif"
@@ -54,7 +54,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 4+ years of experience working with companies from all over the world. I design & develop data products to help businesses increase profitability and improve customer experience."
+  description: " <br>Data Science & Advanced Analytics: <br>Machine Learning (Bayesian, Reinforcement Learning, Deep Learning <br>- CNN, LSTM, Actor-Critic ), Statistical Modeling, NLP (LangChain, RAG agents, Sentiment Analysis ), Optimization (CPLEX ). <br>Data Engineering:<br> Scalable Data Pipelines (Spark, Kafka, Flink ), Cloud Architecture (AWS S3, SageMaker, EC2 ), Database Management (SQL, Postgres ), MLOps (Docker, CI/CD, zenML ).<br>Full-Stack Development (as applicable):<br> Python (Django ), R (RShiny ), Data Visualization (Power BI, Dask ). <br> Entrepreneurship & Leadership:<br> Product Vision, End-to-End Project Management, Business Model Development (Subscriber Sales Model ), Strategic Planning"
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -66,7 +66,7 @@ experience:
 
   items:
     - title: "Data Engineer"
-      company: "<a href='https://issitech.ca/'>ISSITECH</a>"
+      company: "<a href='https://urban-pulse.org/'>Urban Pulse</a>"
       duration: "May 2024 -"
 
     - title: "Data Scientist"
