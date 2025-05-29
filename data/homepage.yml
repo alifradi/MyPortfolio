@@ -180,8 +180,8 @@ client_and_work:
     #    _2x: "img/works/01__Dimensional Data Modeling.PNG"
     #  is_even: false
       
-    - title: "Automated ETL pipeline for Toronto open data extraction"
-      description: "Developed ETL functions to collect Toronto data from open APIs. Functions are tested automatically after each update for quality code and resultant data. different parts of the pipelined are dockerized and designed to communicate within a network to update attached volumes. ETL pipeline jobs are scheduled using Airflow DAGs and Github actions. <a href =https://github.com/alifradi/ETL-pipline-automated> Discover more in my github repository!</a>"
+    - title: "Developed, maintained and tracked ETL pipelines for Urban Pulse data providers"
+      description: "Developed, scheduled ETL functions to collect open cities data from open APIs. Dimensions and fact tables are defined for easier analytics options and unique data structure for different sources. Tables are filled incremetally to minimize processing resources and then tracked with SCD tables for streak analysis. Similar minimal works are available under my Github repository."
       image:
         x: "img/works/etl.PNG"
         _2x: "img/works/etl.PNG"
