@@ -166,19 +166,19 @@ client_and_work:
         _2x: "img/works/Spk.PNG"
       is_even: false
 
-    - title: "Data logging tracking pipeplines"
-      description: "Developed a pipeline for data loggings into website from different browsers and device. The pipeline consisted of transforming data for later quick-advanced analysis and compacting the loggings activities to <b>12x per month</b> <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/fact%20data%20modeling.sql>Link to SQL Script</a>"
-      image:
-        x: "img/works/q2.PNG"
-        _2x: "img/works/q2.PNG"
-      is_even: false
+    #- title: "Data logging tracking pipeplines"
+    #  description: "Developed a pipeline for data loggings into website from different browsers and device. The pipeline consisted of transforming data for later quick-advanced analysis and compacting the loggings activities to <b>12x per month</b> <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/fact%20data%20modeling.sql>Link to SQL Script</a>"
+    #  image:
+    #    x: "img/works/q2.PNG"
+    #    _2x: "img/works/q2.PNG"
+    #  is_even: false
   
-    - title: "Movies Data Manipulation and Analysis Project"
-      description: "Developed and deployed a data pipeline for movie and actor analysis using PostgreSQL. Implemented a Slow Changing Dimensions (SCD) type 2 table, optimized incremental and full backfilling techniques—reducing data processing time by nearly <b>30x for 1970 to 2020—</b> and compacted multiple rows into single entries using Common Table Expressions (CTEs). This enabled detailed historical analysis and real-time data updates, providing valuable insights into actors' performance trends and production year statistics. <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/Dimensional%20Data%20Modeling.sql>Link to SQL Script</a>"
-      image:
-        x: "img/works/01__Dimensional Data Modeling.PNG"
-        _2x: "img/works/01__Dimensional Data Modeling.PNG"
-      is_even: false
+    #- title: "Movies Data Manipulation and Analysis Project"
+    #  description: "Developed and deployed a data pipeline for movie and actor analysis using PostgreSQL. Implemented a Slow Changing Dimensions (SCD) type 2 table, optimized incremental and full backfilling techniques—reducing data processing time by nearly <b>30x for 1970 to 2020—</b> and compacted multiple rows into single entries using Common Table Expressions (CTEs). This enabled detailed historical analysis and real-time data updates, providing valuable insights into actors' performance trends and production year statistics. <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/Dimensional%20Data%20Modeling.sql>Link to SQL Script</a>"
+    #  image:
+    #    x: "img/works/01__Dimensional Data Modeling.PNG"
+    #    _2x: "img/works/01__Dimensional Data Modeling.PNG"
+    #  is_even: false
       
     - title: "Automated ETL pipeline for Toronto open data extraction"
       description: "Developed ETL functions to collect Toronto data from open APIs. Functions are tested automatically after each update for quality code and resultant data. different parts of the pipelined are dockerized and designed to communicate within a network to update attached volumes. ETL pipeline jobs are scheduled using Airflow DAGs and Github actions. <a href =https://github.com/alifradi/ETL-pipline-automated> Discover more in my github repository!</a>"
@@ -188,12 +188,12 @@ client_and_work:
       is_even: false
       
       
-    - title: "Supply costs dashboard for home improvement company"
-      description: "Developed and deployed an interactive expenditure dashboard for <a href=https://www.rona.ca/fr?cq_src=google_ads&cq_cmp=179825668&cq_con=54211137508&cq_term=rona&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&&cm_mmc=paid_search-_-google-_-aw_kw_brand_category-_-71700000065560845&gad_source=1&gclid=Cj0KCQjwj4K5BhDYARIsAD1Ly2owcdLkcFZALhTw0iqnHsnf2ROtre5kOMfmVvGcV8Hum6PDGmOaMS0aAteBEALw_wcB&gclsrc=aw.ds>RONA</a> using Power BI. The dashboard integrates and visualizes financial data from multiple sources that where preprocessed and normalized, providing insights into total expenditures, category-wise breakdowns, supplier analysis, and fiscal trends."
-      image:
-        x: "img/works/rona.png"
-        _2x: "img/works/rona.png"
-      is_even: false
+    #- title: "Supply costs dashboard for home improvement company"
+    #  description: "Developed and deployed an interactive expenditure dashboard for <a href=https://www.rona.ca/fr?cq_src=google_ads&cq_cmp=179825668&cq_con=54211137508&cq_term=rona&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&&cm_mmc=paid_search-_-google-_-aw_kw_brand_category-_-71700000065560845&gad_source=1&gclid=Cj0KCQjwj4K5BhDYARIsAD1Ly2owcdLkcFZALhTw0iqnHsnf2ROtre5kOMfmVvGcV8Hum6PDGmOaMS0aAteBEALw_wcB&gclsrc=aw.ds>RONA</a> using Power BI. The dashboard integrates and visualizes financial data from multiple sources that where preprocessed and normalized, providing insights into total expenditures, category-wise breakdowns, supplier analysis, and fiscal trends."
+    #  image:
+    #    x: "img/works/rona.png"
+    #    _2x: "img/works/rona.png"
+    #  is_even: false
 
     - title: "Sales Report for IT sold products"
       description: "Developed a comprehensive sales dashboard for IT products at Alten using Power BI, where I integrated and normalized raw sales data from multiple sources through Power Query. I created dynamic measures with DAX for real-time insights and designed interactive visualizations to highlight key metrics like net sales quantities and category-wise breakdowns. This project involved advanced data processing techniques and aimed to empower stakeholders to make informed decisions based on detailed data insights."
