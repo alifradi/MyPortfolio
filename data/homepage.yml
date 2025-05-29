@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I’m Ali Fradi."
   subtitle: "AI and data engineer"
-  description: "Bridging Data Science and Engineering: Innovative Solutions from Concept to Impact. Founder of Urban Pulse."
+  description: "Bridging Data Science and Engineering: Innovative Solutions from Concept to Impact. Founder of <a href='https://urban-pulse.org/'>Urban Pulse (UP)</a>."
   image:
     x: "img/showcase/Pi7-GIF-Cropper.gif"
     _2x: "img/showcase/Pi7-GIF-Cropper.gif"
