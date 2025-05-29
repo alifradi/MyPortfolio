@@ -54,7 +54,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: " <br>Data Science & Advanced Analytics: <br>Machine Learning (Bayesian, Reinforcement Learning, Deep Learning <br>- CNN, LSTM, Actor-Critic ), Statistical Modeling, NLP (LangChain, RAG agents, Sentiment Analysis ), Optimization (CPLEX ). <br>Data Engineering:<br> Scalable Data Pipelines (Spark, Kafka, Flink ), Cloud Architecture (AWS S3, SageMaker, EC2 ), Database Management (SQL, Postgres ), MLOps (Docker, CI/CD, zenML ).<br>Full-Stack Development (as applicable):<br> Python (Django ), R (RShiny ), Data Visualization (Power BI, Dask ). <br> Entrepreneurship & Leadership:<br> Product Vision, End-to-End Project Management, Business Model Development (Subscriber Sales Model ), Strategic Planning"
+  description: " <br><b>Data Science & Advanced Analytics:</b> <br>Machine Learning (Bayesian, Reinforcement Learning, Deep Learning <br>- CNN, LSTM, Actor-Critic ), Statistical Modeling, NLP (LangChain, RAG agents, Sentiment Analysis ), Optimization (CPLEX ). <br><b>Data Engineering:</b><br> Scalable Data Pipelines (Spark, Kafka, Flink ), Cloud Architecture (AWS S3, SageMaker, EC2 ), Database Management (SQL, Postgres ), MLOps (Docker, CI/CD, zenML ).<br><b>Full-Stack Development (as applicable):</b><br> Python (Django ), R (RShiny ), Data Visualization (Power BI, Dask ). <br> <b>Entrepreneurship & Leadership:</b><br> Product Vision, End-to-End Project Management, Business Model Development (Subscriber Sales Model ), Strategic Planning"
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
