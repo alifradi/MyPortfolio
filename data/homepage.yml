@@ -136,6 +136,7 @@ client_and_work:
         x: "img/clients/criq.png"
         _2x: "img/clients/criq.png"
       alt: "criq"
+      
     - logo:
         x: "img/clients/crdm.png"
         _2x: "img/clients/crdm.png"
