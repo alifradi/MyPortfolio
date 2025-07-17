@@ -129,20 +129,18 @@ client_and_work:
   clients:
     - logo:
         x: "img/clients/heideluni.png"
-        _2x: "img/clients/asgardia@2x.png"
+        _2x: "img/clients/heideluni.png"
       alt: "heideluni"
 
     - logo:
         x: "img/clients/criq.png"
         _2x: "img/clients/criq.png"
       alt: "criq"
-      
+
     - logo:
         x: "img/clients/crdm.png"
         _2x: "img/clients/crdm.png"
       alt: "crdm"
-
-
 
   works:
     - title: "Assuring data quality and analysis for weather impact on HIV-positive people, Lab of Heidelberg University"
