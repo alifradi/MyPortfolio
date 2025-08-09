@@ -158,12 +158,14 @@ client_and_work:
       alt: "Ztos"
 
   works:
+  
+  works:
     - title: "Assuring data quality and analysis for weather impact on HIV-positive people, Lab of Heidelberg University"
-    description: "Investigated data and sources of low quality data. Taken actions have cured 80% of data and then augmented using GAN architectures to study weather causality on HIV patients."
-    image:
-      x: "img/works/noor.PNG"
-      _2x: "img/works/noor.PNG"
-    is_even: false
+      description: "Investigated data and sources of low quality data. Taken actions have cured 80% of data and then augmented using GAN architectures to study weather causality on HIV patients."
+      image:
+        x: "img/works/noor.PNG"
+        _2x: "img/works/noor.PNG"
+      is_even: false
   
     - title: "Optimizing Big Data analytics Jobs on AWS"
       description: "Developed a PySpark job optimized regarding joins, UDFs, broadcasting and bucketing to reshape data into metrics to analyze and deployed it using EMR AWS service</b> <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/assignment3.py>Link to PySpark example of created jobs</a>"
