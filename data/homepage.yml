@@ -125,15 +125,13 @@ client_and_work:
   title: "Portfolio"
   enable: true
   
-  enable_clients: true
+  enable_clients: flase
   clients:
     - logo:
         x: "img/clients/heideluni.png"
         _2x: "img/clients/heideluni.png"
       alt: "heideluni"
 
-
-  works:
   
   works:
     - title: "Assuring data quality and analysis for weather impact on HIV-positive people, Lab of Heidelberg University"
