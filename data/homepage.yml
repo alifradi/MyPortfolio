@@ -125,7 +125,7 @@ client_and_work:
   title: "Portfolio"
   enable: true
   
-  enable_clients: flase
+  enable_clients: false
   clients:
     - logo:
         x: "img/clients/heideluni.png"
