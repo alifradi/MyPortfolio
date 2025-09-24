@@ -140,6 +140,13 @@ client_and_work:
         x: "img/works/noor.PNG"
         _2x: "img/works/noor.PNG"
       is_even: false
+
+    - title: "Cleaning Company - Full-Stack Django Web Application with Bilingual Admin Dashboard"
+      description: "Developed a comprehensive cleaning service website using Django 5.2 with advanced features including a bilingual (English/French) admin dashboard, dynamic content management, and integrated chatbot functionality. The application features user authentication, testimonial management, gallery system, company logo management, and responsive design. Implemented custom admin panels with AJAX operations, media file handling, and multi-language support. Deployed on Heroku with cloud storage integration. The project demonstrates full-stack development skills, database design, and modern web development practices. Live Demo: <a href=https://tarek-cleaning-website-fe3161582242.herokuapp.com>https://tarek-cleaning-website-fe3161582242.herokuapp.com</a> Key Technologies: Django, Python, HTML/CSS/JavaScript, PostgreSQL, Heroku, Bootstrap, AJAX, i18n"
+      image:
+        x: "img/works/BEM.gif"
+        _2x: "img/works/BEM.gif"
+      is_even: false      
   
     - title: "Optimizing Big Data analytics Jobs on AWS"
       description: "Developed a PySpark job optimized regarding joins, UDFs, broadcasting and bucketing to reshape data into metrics to analyze and deployed it using EMR AWS service</b> <a href=https://github.com/alifradi/Data-Engineering-track-with-Zachary/blob/main/assignment3.py>Link to PySpark example of created jobs</a>"
