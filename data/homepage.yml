@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Ali Fradi."
-  subtitle: "AI and data engineer"
+  subtitle: "Certified AWS data engineer, Msc. in industrial engineering and applied mathematics"
   description: "Bridging Data Science and Engineering: Innovative Solutions from Concept to Impact. Founder of <a href='https://urban-pulse.org/'>Urban Pulse (UP)</a>."
   image:
     x: "img/showcase/Pi7-GIF-Cropper.gif"
@@ -117,6 +117,11 @@ certifications:
       image:
         x: "img/certifications/dbf.png"
         _2x: "img/certifications/dbf.png"
+    - university: "<a href='https://www.credly.com/badges/17e6e3cd-699b-4e91-9bba-608c875abc35/public_url'>AWS Data Engineer</a>"
+      year: "2024-"
+      image:
+        x: "img/certifications/aws.png"
+        _2x: "img/certifications/aws.png"        
 
 
 
